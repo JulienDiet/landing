@@ -1,0 +1,21 @@
+.card img{
+  width: 130px;
+  height: 130px;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+.container h2{
+  text-align: center;
+}
+.card{
+  width: 200px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  padding: 20px;
+  border-radius: 3px;
+  text-align: center;
+  border: 1px solid rgb(230,230,230);
+}

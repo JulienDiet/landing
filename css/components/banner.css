@@ -1,0 +1,21 @@
+.banner {
+  background-image: url('https://arthur-littm.github.io/startup-landing/images/background.png');
+  background-position: center;
+  align-items: center;
+  padding: 200px 0;
+  color: white;
+}
+.banner a{
+  color: white;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 34px;
+  font-size: 16px;
+}
+
+.banner p{
+  color: white;
+  opacity: 0.6;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
